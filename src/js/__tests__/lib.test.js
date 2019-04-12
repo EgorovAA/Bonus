@@ -1,4 +1,4 @@
-import {bonus} from "../../lib.js";
+import {bonus} from "../lib.js";
 
 test('it should calculate bonus ', () =>{
     const sales = [12000, 8000, 10000, 15000, 2000];
